@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a 22-year old student of computer science at Silesian University of Technology in Gliwice. I'm passionate about software development and Machine Learning.
-##💻 Skills
-👉C++
-👉JavaScript
-👉CSS
-👉HTML
-👉Python
+##💻 Skills <br>
+👉C++<br>
+👉JavaScript<br>
+👉CSS<br>
+👉HTML<br>
+👉Python<br>
 
-##🧠 Learning
-👉SQL
-👉C#
-👉Angular
+##🧠 Learning<br>
+👉SQL<br>
+👉C#<br>
+👉Angular<br>
