@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a 22-year old student of computer science at Silesian University of Technology in Gliwice. I'm passionate about software development and Machine Learning.
+##💻 Skills
+👉C++
+👉JavaScript
+👉CSS
+👉HTML
+👉Python
+
+##🧠 Learning
+👉SQL
+👉C#
+👉Angular
