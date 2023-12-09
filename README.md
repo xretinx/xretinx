@@ -25,4 +25,4 @@ I'm a 22-year old student of computer science at Silesian University of Technolo
 ### 🧠 Learning<br>
 👉SQL<br>
 👉C#<br>
-👉Angular<br>
+👉React<br>
