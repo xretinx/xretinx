@@ -24,6 +24,6 @@ I'm a 22-year old student of computer science at Silesian University of Technolo
 👉SQL<br>
 
 ### 🧠 Learning<br>
-👉Flask
+👉Flask<br>
 👉C#<br>
 👉React<br>
