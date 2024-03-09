@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a 22-year old student of computer science at Silesian University of Technology in Gliwice. I'm passionate about software development and Machine Learning.<br>
+Best Projects:
+- [Handwritten digit recognition](https://github.com/xretinx/CNN-Digit-Recognition)![png-transparent-tensorflow-artificial-intelligence-brand-logo-learning-flow-description-angle-text-orange-thumbnail](https://github.com/xretinx/xretinx/assets/79771143/8465b729-3c03-492f-81fe-6e5ba68a5224)
+- [Your doggy twin](https://github.com/xretinx/IO-blizniaki)
+<!---
 ### 💻 Skills <br>
 👉C++<br>
 👉JavaScript<br>
@@ -27,3 +31,4 @@ I'm a 22-year old student of computer science at Silesian University of Technolo
 👉Flask<br>
 👉C#<br>
 👉React<br>
+--->
